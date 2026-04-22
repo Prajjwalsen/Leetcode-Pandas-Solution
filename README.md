@@ -112,3 +112,15 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ---
 
 > “Consistency is the key to mastery.” 🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
+<!---LeetCode Topics End-->
