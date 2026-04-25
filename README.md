@@ -118,6 +118,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -132,4 +133,12 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
