@@ -139,6 +139,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,9 +149,14 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
