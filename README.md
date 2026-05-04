@@ -146,6 +146,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,4 +163,16 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
