@@ -118,6 +118,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
@@ -129,6 +130,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -175,4 +177,8 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
