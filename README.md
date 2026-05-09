@@ -132,6 +132,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0482-license-key-formatting) |
 ## Simulation
 |  |
 | ------- |
