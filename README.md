@@ -145,6 +145,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0485-max-consecutive-ones) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
