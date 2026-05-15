@@ -134,6 +134,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
@@ -186,4 +188,5 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
