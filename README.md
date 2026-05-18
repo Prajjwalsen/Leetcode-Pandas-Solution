@@ -145,6 +145,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
@@ -189,4 +190,12 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
