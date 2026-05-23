@@ -121,6 +121,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -146,6 +147,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
@@ -189,6 +191,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
@@ -198,4 +201,12 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
