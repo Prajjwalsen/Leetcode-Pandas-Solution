@@ -132,6 +132,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0482-license-key-formatting) |
@@ -157,6 +158,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
