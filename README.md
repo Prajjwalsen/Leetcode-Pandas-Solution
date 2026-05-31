@@ -131,6 +131,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
