@@ -146,6 +146,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
@@ -161,6 +162,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
@@ -177,6 +179,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
