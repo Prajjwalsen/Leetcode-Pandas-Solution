@@ -135,6 +135,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0006-zigzag-conversion](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0482-license-key-formatting) |
@@ -204,6 +205,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
@@ -213,6 +215,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
