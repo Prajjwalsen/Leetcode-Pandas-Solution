@@ -134,6 +134,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
@@ -151,6 +152,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -206,6 +208,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -214,6 +217,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 ## Counting Sort
