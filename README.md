@@ -154,6 +154,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
@@ -209,6 +210,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -237,4 +239,8 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
