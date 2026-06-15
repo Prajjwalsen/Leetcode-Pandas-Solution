@@ -154,6 +154,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -221,6 +222,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 ## Counting Sort
