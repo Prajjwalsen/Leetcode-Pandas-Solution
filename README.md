@@ -165,6 +165,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0500-keyboard-row) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -193,6 +194,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting Sort
 |  |
 | ------- |
