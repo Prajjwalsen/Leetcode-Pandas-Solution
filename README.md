@@ -135,6 +135,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0006-zigzag-conversion](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
@@ -207,6 +208,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
