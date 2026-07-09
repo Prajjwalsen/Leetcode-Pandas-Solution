@@ -205,6 +205,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -223,6 +224,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
