@@ -205,6 +205,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
