@@ -129,6 +129,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -163,6 +164,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
@@ -256,6 +258,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0238-product-of-array-except-self) |
 ## Union-Find
 |  |
@@ -277,4 +280,8 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
