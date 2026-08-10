@@ -120,6 +120,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0009-palindrome-number](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
@@ -161,6 +162,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
