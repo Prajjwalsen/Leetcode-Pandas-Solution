@@ -122,6 +122,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
