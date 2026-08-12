@@ -158,6 +158,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
@@ -184,6 +185,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
