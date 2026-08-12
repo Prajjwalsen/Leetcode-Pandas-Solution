@@ -164,6 +164,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -183,6 +184,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -245,6 +247,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
