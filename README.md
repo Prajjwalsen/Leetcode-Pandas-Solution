@@ -171,6 +171,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0228-summary-ranges) |
@@ -241,6 +242,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -252,12 +254,14 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0383-ransom-note) |
 ## Design
@@ -298,4 +302,12 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
