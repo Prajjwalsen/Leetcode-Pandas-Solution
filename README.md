@@ -318,4 +318,5 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0584-find-customer-referee) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
