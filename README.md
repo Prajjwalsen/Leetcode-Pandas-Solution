@@ -190,6 +190,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
@@ -222,6 +223,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
