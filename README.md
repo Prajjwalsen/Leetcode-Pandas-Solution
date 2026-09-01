@@ -232,6 +232,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0092-reverse-linked-list-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -252,6 +253,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0290-word-pattern) |
@@ -277,6 +279,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -331,4 +334,8 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/1661-average-time-of-process-per-machine) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
