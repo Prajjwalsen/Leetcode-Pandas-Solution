@@ -297,21 +297,25 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
