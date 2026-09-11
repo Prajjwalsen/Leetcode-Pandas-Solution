@@ -168,6 +168,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -207,6 +208,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | ------- |
 | [0045-jump-game-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0396-rotate-function) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
