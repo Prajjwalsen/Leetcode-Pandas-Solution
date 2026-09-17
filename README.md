@@ -168,6 +168,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0066-plus-one](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0134-gas-station) |
@@ -252,6 +253,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0141-linked-list-cycle) |
@@ -300,6 +302,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -320,6 +323,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -331,6 +335,7 @@ Passionate about Data Science, Machine Learning & Problem Solving
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Prajjwalsen/Leetcode-Pandas-Solution/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
